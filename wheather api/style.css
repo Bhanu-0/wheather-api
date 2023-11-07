@@ -1,0 +1,39 @@
+/* body{
+    box-sizing: border-box;
+    background-color:yellow;
+}
+
+.container{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 40vh;
+    flex-direction: column;
+    width: 200px;
+    padding: 100px;
+    margin: 200px;
+    place-content: center;
+}
+  */
+
+body{
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+.container{
+    padding: 10px;
+    margin: 190px;
+    margin: 190px 350px;
+    background-color:yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#TXT{
+    text-align: center;
+}
+
+ 
